@@ -1,0 +1,7 @@
+[user]
+	name = chemax212
+	email = chemax212@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = false
+	eol = native
